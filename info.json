@@ -7,8 +7,8 @@
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-UA-TUSA/main/api/v2",
-            "assets":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-UA-TUSA/main/assets"
+            "api":"https://raw.githubusercontent.com/DragonFest7/JackboxUtility-Server-UA-TUSA/main/api/v2",
+            "assets":"https://raw.githubusercontent.com/DragonFest7/JackboxUtility-Server-UA-TUSA/main/assets"
         }
     ],
     "controller":"jackbox.fun",
