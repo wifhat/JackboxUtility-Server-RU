@@ -1,28 +1,33 @@
 {
-    "id":"jackbox-fr",
-    "name":"Jackbox France",
-    "description":"Le serveur d'installation de patch pour la communauté française !",
+    "id":"jackbox-ua-tusa",
+    "name":"Ukraine Jackbox by TUSA",
+    "description":"Сервер встановлення патчів для української спільноти від команди TUSA!",
     "image":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/api/v2",
-            "assets":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/assets"
+            "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-UA-TUSA/main/api/v2",
+            "assets":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-UA-TUSA/main/assets"
         }
     ],
-    "controller":"laboxdejack.fr",
-    "languages":["fr"],
+    "controller":"jackbox.fun",
+    "languages":["ua"],
     "links":[
     	{
             "icon":"globe",
-            "url":"http://blog.laboxdejack.fr/",
+            "url":"http://jackbox.fun/",
             "text":"Blog"
         },
         {
             "icon":"discord",
-            "url":"https://discord.gg/XhwPfUrCEx",
+            "url":"https://discord.gg/Ayxf9Cvfg9",
             "text":"Discord"
-        }
+        },
+        {
+            "icon":"patreon",
+            "url":"http://patreon.com/TUtusa/",
+            "text":"Blog"
+        },
     ]
 }
