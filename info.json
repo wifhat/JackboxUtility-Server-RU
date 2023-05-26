@@ -20,6 +20,16 @@
             "text":"Blog"
         },
         {
+            "icon":"youtibe",
+            "url":"https://www.youtube.com/@tutusa",
+            "text":"Blog"
+        },
+        {
+            "icon":"twitch",
+            "url":"https://www.twitch.tv/tutusa_team",
+            "text":"Discord"
+        },
+        {
             "icon":"discord",
             "url":"https://discord.gg/Ayxf9Cvfg9",
             "text":"Discord"
@@ -27,6 +37,31 @@
         {
             "icon":"patreon",
             "url":"http://patreon.com/TUtusa/",
+            "text":"Blog"
+        },
+        {
+            "icon":"twitter",
+            "url":"https://twitter.com/tutusa_team",
+            "text":"Blog"
+        },
+        {
+            "icon":"instagram",
+            "url":"https://www.instagram.com/tutusa_team/",
+            "text":"Blog"
+        },
+        {
+            "icon":"donatello",
+            "url":"https://donatello.to/tusa",
+            "text":"Blog"
+        },
+        {
+            "icon":"telegram",
+            "url":"https://t.me/tutusa_team",
+            "text":"Blog"
+        },
+        {
+            "icon":"facebook",
+            "url":"https://www.facebook.com/groups/1877966972555719",
             "text":"Blog"
         },
     ]
