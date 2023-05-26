@@ -17,52 +17,52 @@
         {
             "icon":"youtube",
             "url":"https://www.youtube.com/@tutusa",
-            "text":"Blog"
+            "text":"YouTube"
         },
         {
             "icon":"twitch",
             "url":"https://www.twitch.tv/tutusa_team",
-            "text":"Discord"
+            "text":"Twitch"
         },
         {
-            "icon":"discord",
+            "icon":"Discord",
             "url":"https://discord.gg/Ayxf9Cvfg9",
             "text":"Discord"
         },
         {
             "icon":"patreon",
             "url":"http://patreon.com/TUtusa/",
-            "text":"Blog"
+            "text":"Patreon"
         },
         {
             "icon":"twitter",
             "url":"https://twitter.com/tutusa_team",
-            "text":"Blog"
+            "text":"Twitter"
         },
         {
             "icon":"globe",
             "url":"https://www.instagram.com/tutusa_team/",
-            "text":"Blog"
+            "text":"Instagram"
         },
         {
             "icon":"hryvnia",
             "url":"https://donatello.to/tusa",
-            "text":"Blog"
+            "text":"Donatello"
         },
         {
             "icon":"telegram",
             "url":"https://t.me/tutusa_team",
-            "text":"Blog"
+            "text":"Telegram"
         },
         {
             "icon":"facebook",
             "url":"https://www.facebook.com/groups/1877966972555719",
-            "text":"Blog"
+            "text":"Facebook"
         },
         {
             "icon":"paypal",
             "url":"https://www.paypal.com/donate/?hosted_button_id=8L94EG59Y3QMU",
-            "text":"Blog"
+            "text":"PayPal"
         }
     ]
 }
