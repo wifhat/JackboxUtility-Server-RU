@@ -14,11 +14,6 @@
     "controller":"jackbox.fun",
     "languages":["ua"],
     "links":[
-    	{
-            "icon":"globe",
-            "url":"http://jackbox.fun/",
-            "text":"Blog"
-        },
         {
             "icon":"youtube",
             "url":"https://www.youtube.com/@tutusa",
@@ -45,12 +40,12 @@
             "text":"Blog"
         },
         {
-            "icon":"instagram",
+            "icon":"globe",
             "url":"https://www.instagram.com/tutusa_team/",
             "text":"Blog"
         },
         {
-            "icon":"donatello",
+            "icon":"hryvnia",
             "url":"https://donatello.to/tusa",
             "text":"Blog"
         },
@@ -64,5 +59,10 @@
             "url":"https://www.facebook.com/groups/1877966972555719",
             "text":"Blog"
         },
+        {
+            "icon":"paypal",
+            "url":"https://www.facebook.com/groups/1877966972555719",
+            "text":"Blog"
+        }
     ]
 }
