@@ -1,19 +1,6 @@
 {
     "news":[
-        {
-            "id":"2023-02-21 19:02:14",
-            "title":"Jackbox Utility",
-            "smallDescription":"Ласкаво просимо до нової версії Jackbox Utility!",
-            "content":"# Представляємо новий Jackbox Utility\n\nЗ цією новою версією, ви зможете запускати всі свої улюблені ігри в одному місці !\n\nХочете бути ще швидшими ? Ваші ігри запускаються у режимі **Швидкого Запуску**, тож ви можете пропустити вступ до паку і автоматично вибрати потрібну гру. Так ви зможете ще швидше включитися в гру !",
-            "image":"news_images/logo.png"
-        },
-        {
-            "id":"2023-02-18 14:29:14",
-            "title":"Приєднуйтесь до нас !",
-            "smallDescription":"Jouons ensemble et recevez de l'aide sur les outils de Jackbox France !",
-            "content":"# Besoin d'aide ? Envie de jouer ?\n\nAlors rejoignez le serveur discord pour poser vos questions et jouer avec nous !\n\n<https://discord.gg/XhwPfUrCEx>",
-            "image":"news_images/discord.png"
-        }
+        
     ]
 
 }
