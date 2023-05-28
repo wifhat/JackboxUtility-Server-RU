@@ -16,28 +16,28 @@
        	    "id":"writing",
             "name":"Написання",
             "icon":"text_align_top",
-            "description":"Vous allez devoir écrire dans ces jeux."
+            "description":"У цих іграх вам доведеться писати."
        },
        {
        	    "id":"deduction",
-            "name":"Déduction",
+            "name":"Дедукція",
             "icon":"comment_urgent",
-            "description":"Ces jeux sont des jeux de déduction."
+            "description":"У цих іграх вам доведеться дедукційно мислити."
        },
        {
        	    "id":"knowledge",
-            "name":"Culture générale",
+            "name":"Загальні знання",
             "icon":"knowledge_management_app",
-            "description":"Ces jeux sont des jeux de culture générale."
+            "description":"У цих іграх вам доведеться відповідати на загальні питання."
        }
     ],
     "patchsCategories":
     [
 	{
-	    "id":"french_patchs",
-	    "name":"Traduction en français",
-	    "smallDescription":"Toutes les traductions Jackbox disponible en un seul et même endroit",
-	    "patchs":["bombcorp_fr","bidiots_fr","monsterseekingmonster_fr","bracketeering_fr","splittheroom_fr","patentlystupid_fr","jokeboat_fr","dictionarium_fr","pushthebutton_fr","champdup_fr","talkingpoints_fr","thedevilsandthedetails_fr","jobjob_fr","thepollmine_fr","weaponsdrawn_fr"]
+	    "id":"ukrainian_patchs",
+	    "name":"Переклади українською",
+	    "smallDescription":"Всі переклади Jackbox доступні в одному місці",
+	    "patchs":["junktopia_ua","roomerang_ua","quixort_ua”]
 	}
     ],
     "packs":[
@@ -260,7 +260,7 @@
                     },
                     "length":"10 - 30 minutes",
                     "type":"COOP",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Désamorcez des bombes à 4",
                     "small_description":"Bienvenue à Bomb Corp ! En tant que stagiaire, vous allez devoir désamorcer les bombes qui se trouvent dans l'entreprise. Arriverez-vous à atteindre le dernier jour ?",
                     "description":"# Votre nouveau job : Stagiaire désamorceur\n\nDans Bomb Corp, vous allez devoir désamorcer des bombes à quatre joueurs. La difficulté ? Chacun a une indication qu'il devra expliquer à l'équipe pour couper les bons fils.\n\nVous trouvez que désamorcer des bombes est trop simple ? Alors essayez de trier des fichiers dans l'ordre, faire un café avec du matériel explosif ou encore déchiffrer un code pour ouvrir les bureaux.\n\nLe jeu a 2 modes de jeux : \n- Histoire : Un mode histoire où vous allez devoir survivre à 15 jours chez Bomb Corp\n- Mode infini : Pour les joueurs qui veulent juste jouer jusqu'au bout de la nuit\n\nPlus vous allez loin, et plus ça va être compliqué de désamorcer les bombes (et supporter vos collègues)",
@@ -419,7 +419,7 @@
                     },
                     "length":"15 - 20 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"C'est l'heure des enchères",
                     "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                     "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
@@ -746,7 +746,7 @@
                     },
                     "length":"15 - 20 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Même les monstres ont le droit à l'amour",
                     "small_description":"Vous êtes désespérément à la recherche de l'amour. Je sais c'est compliqué en tant que monstre. Monster seeking monster peut vous aider à remédier à ça en vous laissant participer à une séance de rendez-vous amoureux avec tous les monstres aux alentours !",
                     "description":"# But du jeu\n\nPour remporter Monster Seeking Monster, il faut **discuter par écrit avec les autres joueurs afin d'organiser un rendez-vous** avec l'un d'entre eux.\n\n# Déroulement d'une partie\n\nLe jeu se joue en 6 nuits, chacune étant composée de deux phases :\n- La phase de discussion écrite\n- La phase de rencontre\n\n*Bon à savoir : La moitié des nuits (soit 3) sont des **nuits de pleine lune**. Pour certains monstres, elle s'avèrent **capitales***.\n\n# Déroulement d'une manche\n\nChaque nuit commence par la phase de drague. Tous les joueurs disposeront d'un temps limité pour pour s'envoyer **jusqu'à 4 messages** afin d'organiser leurs rendez-vous. Une fois le temps imparti écoulé, ils devront choisir le joueur avec lequel sortir.\n\nLa phase des résultats débute alors. Un à un, les joueurs ainsi que l'élu de leur coeur seront affichés. Deux résultats sont alors possibles :\n- Deux joueurs se choisissent mutuellement : c'est un match. **Un coeur est remporté par chacun**.\n- L'un des joueurs n'a pas choisi celui qui l'a choisi : c'est un gros râteau. **Le joueur ayant été rejeté ne gagne aucun coeur**.\n\n *A partir de la nuit 3, le rôle du joueur classé en première position est révélé. Il en sera ainsi pour toutes les nuits restantes.*\n\nLa nuit se termine et la suivante débute. Le procédé se répète jusqu'à la nuit 6 où sont annoncés les résultats et les rôles des derniers joueurs.",
@@ -1047,7 +1047,7 @@
                     },
                     "length":"15 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Créez vos meilleurs dilemmes",
                     "small_description":"Vous allez devoir créer les meilleurs dillemmes possible. Le but du jeu ? Splitez vos amis le plus possible sur une question simple (et délirante)",
                     "description":"# Bienvenue dans un monde où les dimensions s'entremêlent\n\nMayonnaise vous attend. Vous allez devoir créer des dilemmes pour séparer le plus de personnes. Plus le split est grand, plus vous gagnez des points ! Soyez stratégiques, connaissez vos adversaires et créez les plus grands dilemmes que le monde n'aient jamais connus.",
@@ -1099,7 +1099,7 @@
                     },
                     "length":"20 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATTED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Crééz vos propres inventions !",
                     "small_description":"Le monde va mal et les problèmes pleuvent. Arriverez-vous à créer l'invention qui résoudra tout. Et surtout, arriverez-vous à la vendre au plus de personnes dans la salle ?",
                     "description":"# C'est l'heure du meeting\n\nVous êtes invité au plus grand meeting d'ingénieur que le monde ait connu. Le monde a des problèmes et vous allez devoir les résoudre avec une invention que vous allez dessiner, nommer et présenter. Si vous êtes bon, vous gagnerez de l'argent.\n\nVous n'avez pas géré lors du premier tour ? Alors rattrapez vous avec le second en créant un objet répondant aux mêmes problèmes que vos compères !",
@@ -1242,7 +1242,7 @@
                     },
                     "length":"15 - 25 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Venez faire rire vos amis",
                     "small_description":"Vous êtes les comédiens ? Génial, vous allez pouvoi faire rire tous nos convives dans Joke Boat",
                     "description":"# Bienvenue à bord !\n\nVous êtes accepté en tant que comédien dans le Joke Boat, un bateau connu pour... ses blagues ? En tout cas, votrre but est de recevoir le plus d'argent des passagers en vous démarquant de votre adversaire. Comment faire ? En créant vos meilleures blagues bien sûr !",
@@ -1292,7 +1292,7 @@
                     },
                     "length":"10 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Inventez des mots",
                     "small_description":"Le dictionnaire est vaste mais pourquoi pas en rajouter ? A vous de créer de nouveaux mots, donner leur définition et choisir votre préféré !",
                     "description":"# Imaginez des mots\n\nBienvenue au dictionarium, un endroit magique où vous allez devoir créer de nouveaux mots en plus de leur définition. Un concept assez simple mais qui est très ontéressant si vous avez une âme littéraire",
@@ -1342,7 +1342,7 @@
                     },
                     "length":"Dépendant du nombre de joueurs",
                     "type":"TEAM",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Trouvez les aliens",
                     "small_description":"Des aliens sont arrivés dans votre vaisseau et se cachent dans votre équipage. Trouvez les à temps avant que l'IA du vaisseau soit effacée pour survivre.",
                     "description":"# Une intrusion a été détectée\n\nDODE, l'IA de votre vaisseau spatial, vous avertis que des perturbations anormales ont eu lieu à l'intérieur de celui-ci. Après analyse, vous découvrez que certains de vos coéquipiers sont des aliens. Mais vous ne savez pas qui !\n\nPour les découvir vous allez devoir faire des tests d'humanité à chaque joueurs dans la partie. Que ce soit avec des opinions, des dessins ou encore des mots, il y a des tonnes de manière de trouver les aliens. Mais faites vite ! Le temps tourne et si vous ne trouvez pas tous les aliens avant la fin, c'est perdu !",
@@ -1417,7 +1417,7 @@
                         "max":8
                     },
                     "length":"Environ 20 minutes",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "type":"VERSUS",
                     "tagline":"Faites combattre vos dessins",
                     "small_description":"Le combat approche. Il est l'heure de créer vos meilleurs combattants pour qu'ils puissent se battre sur le ring. Arriverez-vous à sortir vainqueur ?",
@@ -1469,7 +1469,7 @@
                     },
                     "length":"20 - 40 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Présentez votre pire sujet",
                     "small_description":"L'impro ça vous connait ? Vous allez devoir passer à l'oral sur un thème que vous ne connaissez pas et avec des diapositives choisies par d'autres joueurs. Parlez bien pour gagner !",
                     "description":"# Retour à l'école !\n\nVous allez devoir passer à l'oral sur un thème choisit par un autre joueur. Dites n'importe quoi et essayez d'être le plus raccord avec les diapositives choisies par votre suppléant : un autre joueur.\n\nEn plus de noter les autres pendant la présentation, vous pouvez aussi donner un award à votre présentation préférée pour lui faire gagner pleins de points !",
@@ -1520,7 +1520,7 @@
                     },
                     "length":"Environ 15 minutes",
                     "type":"COOP",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Faites vos tâches !",
                     "small_description":"Hey, les démons ! C'est à vous de travailler ensemble pour faire ce que les humains font le moins bien : des tâches ménagères. Travaillez en équipe et soyez vif pour réussir le challenge de la semaine !",
                     "description":"# Au travail démons !\n\nVous avez été accepté pour le programme de relation entre démons et humains. Vos tâches seront simples : faire des tâches ménagères. Vous allez devoir travailler en équipe pour en faire le plus possible et ainsi gagner le challenge de la semaine.\n\nMais faites attention, certains démons vont essayer de jouer dans leur coin pour empocher un max de points et ne plus rien vous laisser. Soyez rapide et efficace pour les arreter !",
@@ -1731,7 +1731,7 @@
                     },
                     "length":"15 - 25 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Devenez le meilleur employé",
                     "small_description":"C'est l'heure de l'interview. Parviendrez-vous à impressionner Mr Bubble, le patron, et décrocher le job ?",
                     "description":"# L'interview approche...\n\n ... et vous êtes confrontés aux autres joueurs pour décrocher le job. Pour vous échauffer, vous allez devoir répondre à une question simple avec le plus de mots possible. Les mots dans votre réponse seront envoyés aux autres joueurs qui devront les utiliser pour répondre à leur seconde question ! C'est ensuite que les joueurs votent pour leur réponse préférée !",
@@ -1783,7 +1783,7 @@
                     },
                     "length":"Environ 15 minutes",
                     "type":"TEAM",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Echappez-vous de la grotte",
                     "small_description":"Les sondages sont puissants vous savez ? C'est le seul moyen pour vous de sortir de cette grotte. Alors jouez en équipe et trouvez les réponses de ces sondages dans l'ordre !",
                     "description":"Bienvenue jeunes voyageurs, vous avez tenté de piller cette grotte mais vous vous êtes fait enfermés. La seule manière de sortir vivant avec votre équipe est de répondre à des sondages. Vous allez ensuite devoir retrouver le classement de ces sondages dans un ordre précis. L'équipe avec le plus de torches (ou celle qui ne se fait pas éliminée) gagne !",
@@ -1834,7 +1834,7 @@
                     },
                     "length":"20 - 40 minutes",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"Trouvez les tueurs",
                     "small_description":"Effectuez des meurtres avec vos dessins et essayez d'en résoudre grâce à vos talents de détective dans ce jeu où se melle dessin et déduction",
                     "description":"# Des meurtres à foison\n\nDans ce jeu, vous allez devoir dessiner vos propres armes pour pouvoir effectuer des meurtres sur vos cibles. Mais attention ! Ces armes contiennent une lettre que vous allez devoir cacher sous peine d'être repéré. Agissez vite pour tuer rapidement et observer bien pour trouver les meurtiers parmis vos camarades.",
@@ -1938,7 +1938,7 @@
             },
             {
                 "id":"roomerang",
-                "name":"Roomerang",
+                "name":"Квартиранг",
                 "background":"game_backgrounds/Roomerang.webp",
                 "path":"games/MakeFriends",
                 "game_info":{
@@ -1948,10 +1948,10 @@
                     },
                     "length":"25 - 35 minutes",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Saurez-vous gagner Roomerang",
-                    "small_description":"C'est le moment de vous faire connaitre ! Rejoignez la télé-réalité Roomerang et éliminé vos adversaires un à un jusqu'à ce qu'une seule personne soit vainqueur.",
-                    "description":"Bienvenue dans Roomerang\n\nIci, vous devez vous batailler pour la victoire. Vous avez chacun un petit détail sur vous. Que ce soit livreur de pizza, jardinier en herbe ou pro de l'escalade, vous avez les talents pour gagner la partie et éliminer tout le monde sur votre passage.",
+                    "translation":"COMMUNITY_TRANSLATED",
+                    "tagline":"Чи можете ви виграти у Квартиранг?",
+                    "small_description":"Увімкніть свою внутрішню зірку реаліті-шоу та спробуйте вирватись на перше місце!",
+                    "description":"Ви тут, щоб знайти друзів... чи ПЕРЕМОГТИ?",
                     "images":[
 			"game_images/Roomerang/roomerang_1.jpg",
                         "game_images/Roomerang/roomerang_2.jpg",
@@ -1973,7 +1973,7 @@
             },
             {
                 "id":"junktopia",
-                "name":"Junktopia",
+                "name":"Сміттєтопія",
                 "background":"game_backgrounds/Junktopia.webp",
                 "path":"games/AntiqueGame",
                 "game_info":{
@@ -1983,10 +1983,10 @@
                     },
                     "length":"15 - 25 minutes",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Vendez vos objets",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"COMMUNITY_TRANSLATED",
+                    "tagline":"Продайте свої товари!",
+                    "small_description":"Дивний чарівник перетворив вас на жаб! Вигадайте кумедні передісторії для різноманітних товарів, а потім оцініть їх. Гравець з найціннішими предметами знову стає людиною!",
+                    "description":"Кожен дивний товар має свою історію.",
                     "images":[
 			"game_images/Junktopia/junktopia_1.jpg",
                         "game_images/Junktopia/junktopia_2.jpg",
@@ -2043,7 +2043,7 @@
             },
             {
                 "id":"quixort",
-                "name":"Quixort",
+                "name":"Швидкосорт",
                 "background":"game_backgrounds/Quixort.webp",
                 "path":"games/Lineup",
                 "game_info":{
@@ -2053,10 +2053,10 @@
                     },
                     "length":"15 - 20 minutes",
                     "type":"TEAM",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Triez les blocs",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"COMMUNITY_TRANSLATED",
+                    "tagline":"Сортуйте блоки!",
+                    "small_description":"Працюйте разом зі своєю командою, щоб відсортувати відповіді, у правильному порядку, перш ніж вони потраплять впадуть на конвеєр!",
+                    "description":"Ці падаючі блоки самі не розберуться!",
                     "images":[
 			"game_images/Quixort/quixort_1.jpg",
                         "game_images/Quixort/quixort_2.jpg",
