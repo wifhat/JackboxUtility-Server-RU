@@ -2,19 +2,19 @@
     "tags":[
        {
             "id":"talking",
-            "name":"Discussion",
+            "name":"Спілкування",
             "icon":"action_center",
-            "description":"Jeux nécessitant de discuter entre joueurs pour avancer dans la partie."
+            "description":"У цих іграх вам доведеться щось обговорювати з іншими гравцями для просування далі."
        },
        {
        	    "id":"drawing",
-            "name":"Dessin",
+            "name":"Малювання",
             "icon":"edit",
-            "description":"Vous allez devoir dessiner dans ces jeux."
+            "description":"У цих іграх вам доведеться малювати."
        },
        {
        	    "id":"writing",
-            "name":"Ecrit",
+            "name":"Написання",
             "icon":"text_align_top",
             "description":"Vous allez devoir écrire dans ces jeux."
        },
