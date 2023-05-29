@@ -35,8 +35,8 @@
     [
 	{
 	    "id":"french_patchs",
-	    "name":"Traduction en français",
-	    "smallDescription":"Toutes les traductions Jackbox disponible en un seul et même endroit",
+	    "name":"Переклади на українську",
+	    "smallDescription":"Всі переклади Jackbox доступні в одному місці",
 	    "patchs":["bombcorp_fr","bidiots_fr","monsterseekingmonster_fr","bracketeering_fr","splittheroom_fr","patentlystupid_fr","jokeboat_fr","dictionarium_fr","pushthebutton_fr","champdup_fr","talkingpoints_fr","thedevilsandthedetails_fr","jobjob_fr","thepollmine_fr","weaponsdrawn_fr"]
 	}
     ],
