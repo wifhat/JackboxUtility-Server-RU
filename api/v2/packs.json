@@ -1540,7 +1540,7 @@
                     "patch_path": "https://github.com/DragonFest7/jackbox-pack-9/releases/download/v0.6/JPP9-v0.6.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/DragonFest7/jackbox-pack-9/main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/DragonFest7/jackbox-pack-9/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
