@@ -1530,7 +1530,7 @@
                 "version_file": "jbg.config.jet",
                 "version_property": "buildVersion"
             },
-            "pat0hs": [
+            "patchs": [
                 {
                     "id": "jpp9_ua",
                     "name": "Jackbox Party Pack 9",
