@@ -1536,7 +1536,7 @@
                     "name": "Jackbox Party Pack 9",
                     "small_description": "Текстові переклади ігор Квартиранг, Сміттєтопія та Швидкосорт.",
                     "description": "Текстові переклади ігор Квартиранг, Сміттєтопія та Швидкосорт.",
-                    "version": "589",
+                    "version": "653.2-UK",
                     "patch_path": "https://github.com/DragonFest7/jackbox-pack-9/releases/download/v0.6/JPP9-v0.6.zip",
                     "configuration": {
                         "version_origin": "repo_file",
