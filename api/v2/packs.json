@@ -1537,10 +1537,10 @@
                     "small_description": "Текстові переклади ігор Квартиранг, Сміттєтопія та Швидкосорт.",
                     "description": "Текстові переклади ігор Квартиранг, Сміттєтопія та Швидкосорт.",
                     "version": "653.2-UK",
-                    "patch_path": "https://github.com/DragonFest7/jackbox-pack-9tusak/releases/latest/download/JPP9-v0.6.zip",
+                    "patch_path": "https://github.com/DragonFest7/jackbox-pack-9/releases/latest/download/JPP9-v0.6.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/DragonFest7/jackbox-pack-9tusak/main/jbg.config.jet",
+                        "version_file": "https://raw.githubusercontent.com/DragonFest7/jackbox-pack-9/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
