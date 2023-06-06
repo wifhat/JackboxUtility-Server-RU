@@ -1,18 +1,18 @@
 {
-    "id":"jackbox-ua-tusa",
-    "name":"TUSA:UA",
-    "description":"Обєднана команда ентузіастів з локалізації ігор Jackbox Games та ін.",
-    "image":"https://raw.githubusercontent.com/DragonFest7/JackboxUtility-Server-UA-TUSA/main/assets/news_images/logo.png",
+    "id":"jackbox-ru",
+    "name":"What IF?",
+    "description":"Это неофициальное сообщество русской версии игр Jackbox. Уже 4 года мы выпускаем переводы самых разных игр из серии Jackbox Games, от старых до свежих. С каждым годом всё больше переводов!",
+    "image":"https://raw.githubusercontent.com/wifhat/JackboxUtility-Server-RU/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/DragonFest7/JackboxUtility-Server-UA-TUSA/main/api/v2",
-            "assets":"https://raw.githubusercontent.com/DragonFest7/JackboxUtility-Server-UA-TUSA/main/assets"
+            "api":"https://raw.githubusercontent.com/wifhat/JackboxUtility-Server-RU/main/api/v2",
+            "assets":"https://raw.githubusercontent.com/wifhat/JackboxUtility-Server-RU/main/assets"
         }
     ],
     "controller":"jackbox.fun",
-    "languages":["uk"],
+    "languages":["ru"],
     "links":[
         {
             "icon":"youtube",
