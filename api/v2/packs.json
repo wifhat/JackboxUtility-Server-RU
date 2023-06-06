@@ -1545,27 +1545,12 @@
                     },
                     "components": [
                         {
-                            "id": "roomerang_patch",
-                            "linked_game": "roomerang",
-                            "name": "Квартиранг",
-                            "description": "Повний текстовий переклад гри без озвучення.",
-                            "authors": "TUSA",
-                            "small_description": "Повний текстовий переклад гри без озвучення",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": true,
-                                "game_subtitles": false,
-                                "website": true,
-                                "audios": false
-                            }
-                        },
-                        {
                             "id": "junktopia_patch",
                             "linked_game": "junktopia",
-                            "name": "Сміттєтопія",
-                            "description": "Повний текстовий переклад гри без озвучення.",
-                            "authors": "TUSA",
-                            "small_description": "Повний текстовий переклад гри без озвучення",
+                            "name": "Хламтопия",
+                            "description": "Повний переклад гри.",
+                            "authors": "What IF?",
+                            "small_description": "Повний переклад гри",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
@@ -1577,10 +1562,10 @@
                         {
                             "id": "quixort_patch",
                             "linked_game": "quixort",
-                            "name": "Швидкосорт",
-                            "description": "Повний текстовий переклад гри без озвучення.",
-                            "authors": "TUSA",
-                            "small_description": "Повний текстовий переклад гри без озвучення",
+                            "name": "Скоросорт",
+                            "description": "Повний переклад гри.",
+                            "authors": "What IF?",
+                            "small_description": "Повний переклад гри",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
