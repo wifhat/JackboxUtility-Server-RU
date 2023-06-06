@@ -1537,10 +1537,10 @@
                     "small_description": "Текстові переклади ігор Квартиранг, Сміттєтопія та Швидкосорт.",
                     "description": "Текстові переклади ігор Квартиранг, Сміттєтопія та Швидкосорт.",
                     "version": "653.2-UK",
-                    "patch_path": "https://github.com/DragonFest7/jackbox-pack-9/releases/latest/download/JPP9-v0.6.zip",
+                    "patch_path": "https://github.com/wifhat/jackbox-pack-9/releases/latest/download/JPP9-v0.4.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/DragonFest7/jackbox-pack-9/main/jbg.config.jet",
+                        "version_file": "https://raw.githubusercontent.com/wifhat/jackbox-pack-9/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -1637,7 +1637,7 @@
                         },
                         "length": "25 - 35 хвилин",
                         "type": "VERSUS",
-                        "translation": "COMMUNITY_TRANSLATED",
+                        "translation": "ENGLISH",
                         "tagline": "Чи можете ви виграти у Roomerang?",
                         "small_description": "Увімкніть свою внутрішню зірку реаліті-шоу та спробуйте вирватись на перше місце!",
                         "description": "**Roomerang** — гра розрахована на 4–9 гравців і присвячена реаліті-шоу. Гравці беруть на себе ролі персонажів із визначальною рисою та мають давати відповіді, які відповідають цій рисі, а також працювати з рисами інших персонажів. Гравець з найбільшою кількістю відповідей виграє раунд і отримує перевагу в наступному вибуванні. Вибулі гравці втрачають деякі очки, але повертаються в гру з новою рисою. Перемагає гравець, який набрав найбільшу кількість очок після п'яти раундів.",
